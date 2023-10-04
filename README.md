@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the agent panel of osTicket observe and manage current open tickets. A case number and a date time group of the last update will be posted for each ticket, as well as a subject headline for a basic idea of what the issue is. You can address open tickets based on assignment and priority levels. However, it is important to review all open tickets in order to determine the priority of the issue according to your department's SOPs. 
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While working on tickets, update the priority and the SLA plan if necessary. Coordinate the issue with any required parties. In this case, the issue is re-assigned to emergency priority due to its relevance for day-to-day operations. It is also coordinated with the System Administrators Team and a System Engineer. Each update will be logged in the ticket thread and can be marked resolved once complete. 
 </p>
 <br />
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+If the assigned workload becomes too difficult to manage, a ticket can be coordinated and re-assigned to another administrator. In this case, the priority and severity are updated and a warm hand-off is conducted. 
 </p>
 <br />
 
